@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/puncoz/electron-hello-world#readme",
   "devDependencies": {
-    "electron": "^6.0.5"
+    "electron": "^9.4.0"
   }
 }
